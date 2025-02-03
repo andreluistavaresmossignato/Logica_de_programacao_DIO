@@ -1,3 +1,4 @@
+// Matriz
 let timePokemon = [
     ["Pikachu", "Masculino", 1], // linha 0 (pikachu = coluna 0, M = coluna 1, etc)
     ["Charmander", "Feminino", 3] // linha 1
