@@ -1,3 +1,4 @@
+let nome = "André"
 let xp = 8000
 let nivel = ""
 
@@ -33,7 +34,7 @@ else{
     nivel = "Radiante"
 }
 
-console.log("Seu nível de herói é " + nivel)
+console.log("O herói de nome " + nome + " está no nível de " + nivel)
 
 
 
